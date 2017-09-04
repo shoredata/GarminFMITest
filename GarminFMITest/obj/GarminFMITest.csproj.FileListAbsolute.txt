@@ -1,0 +1,8 @@
+C:\source\vs2k5\projects\GarminFMITest\GarminFMITest\obj\Debug\ResolveAssemblyReference.cache
+C:\source\vs2k5\projects\GarminFMITest\GarminFMITest\obj\Debug\GarminFMITest.csproj.GenerateResource.Cache
+C:\source\vs2k5\projects\GarminFMITest\GarminFMITest\obj\Debug\Midcom_Office.Properties.Resources.resources
+C:\source\vs2k5\projects\GarminFMITest\GarminFMITest\obj\Debug\Midcom_Office.Form1.resources
+C:\source\vs2k5\projects\GarminFMITest\GarminFMITest\bin\Debug\GarminFMITest.exe
+C:\source\vs2k5\projects\GarminFMITest\GarminFMITest\bin\Debug\GarminFMITest.pdb
+C:\source\vs2k5\projects\GarminFMITest\GarminFMITest\obj\Debug\GarminFMITest.exe
+C:\source\vs2k5\projects\GarminFMITest\GarminFMITest\obj\Debug\GarminFMITest.pdb
