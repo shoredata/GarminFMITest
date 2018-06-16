@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 
 
-namespace Midcom_Office
+namespace Garmin_FMI_Test
 {
   public partial class Form1 : Form
   {
@@ -24,6 +24,8 @@ namespace Midcom_Office
       {
         comboport.Items.Add(stringtemplabel);
       }
+
+      clsApplicationFunctions.VerifyAndCreateAppDataFolders();
 
       //OnCOMDataAcquiredEvent += new DataCOMAcquired(ThreadReportsCOMDataAquiredEvent);
     }

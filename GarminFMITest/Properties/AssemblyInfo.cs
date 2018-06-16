@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("GarminFMITest")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Midwest Computer Register")]
+[assembly: AssemblyCompany("Barton Schaefer")]
 [assembly: AssemblyProduct("GarminFMITest")]
-[assembly: AssemblyCopyright("Copyright © Midwest Computer Register 2010")]
+[assembly: AssemblyCopyright("Copyright © Barton Schaefer 2010")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

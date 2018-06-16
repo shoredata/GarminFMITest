@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
-namespace Midcom_Office
+namespace Garmin_FMI_Test
 {
   static class Program
   {
